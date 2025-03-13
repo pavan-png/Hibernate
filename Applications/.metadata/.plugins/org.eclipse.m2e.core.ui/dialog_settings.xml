@@ -27,6 +27,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation\src\main\java\in\orcas\main\TestApp.java"/>
+			<item value="C:\Users\vijay\Hibernate\Applications\SelectOperationUsingLoadMethod\src\main\java\in\orcas\main\TestApp.java"/>
+			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation\pom.xml"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation\src"/>
 		</list>
@@ -52,6 +55,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.SelectOperationUsingGetMethod"/>
+			<item value="orcas.hibernate.DeleteOperationUsingDeleteMethod"/>
+			<item value="orcas.hibernate"/>
+			<item value="orcas.hibernate.SelectOperationUsingLoadMethod"/>
 			<item value="orcas.hibernate.HibernateSaveOperation_1"/>
 			<item value="orcas.hibernate.HIbernateSaveOperation"/>
 		</list>
@@ -59,6 +66,9 @@
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="SelectOperationUsingGetMethod"/>
+			<item value="DeleteOperationUsingDeleteMethod"/>
+			<item value="SelectOperationUsingLoadMethod"/>
 			<item value="HibernateSaveOperation_1"/>
 			<item value="HIbernateSaveOperation"/>
 		</list>
@@ -98,5 +108,18 @@
 		<item key="height" value="667"/>
 		<item key="x" value="720"/>
 		<item key="y" value="66"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

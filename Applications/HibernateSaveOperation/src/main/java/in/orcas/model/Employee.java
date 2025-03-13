@@ -1,6 +1,7 @@
 package in.orcas.model;
 
 import jakarta.persistence.Column;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
@@ -43,6 +44,10 @@ public class Employee{
 	}
 	public void setEmpSal(Double empSal) {
 		this.empSal = empSal;
+	}
+	@Override
+	public String toString() {
+		return "Employee [empId=" + empId + ", empName=" + empName + ", empSal=" + empSal + "]";
 	}
 	
 	
