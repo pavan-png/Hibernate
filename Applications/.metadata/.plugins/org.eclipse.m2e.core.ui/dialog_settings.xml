@@ -27,6 +27,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Administrator\Hibernate\Applications"/>
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation\src"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -38,6 +40,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -49,10 +52,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.HibernateSaveOperation_1"/>
+			<item value="orcas.hibernate.HIbernateSaveOperation"/>
 		</list>
 		<list key="groupId">
+			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="HibernateSaveOperation_1"/>
+			<item value="HIbernateSaveOperation"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
