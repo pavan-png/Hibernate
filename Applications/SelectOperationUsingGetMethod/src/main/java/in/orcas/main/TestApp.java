@@ -13,7 +13,7 @@ public class TestApp {
 		Configuration cfg = new Configuration();
 		cfg.configure();
 		
-		SessionFactory buildSessionFactory =cfg.buildSessionFactory();
+		SessionFactory buildSessionFactory = cfg.buildSessionFactory();
 		
 		Session session = buildSessionFactory.openSession();
 		
