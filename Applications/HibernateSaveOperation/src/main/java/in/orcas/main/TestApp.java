@@ -2,7 +2,6 @@ package in.orcas.main;
 
 import org.hibernate.Session;
 
-
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
@@ -35,7 +34,8 @@ public class TestApp {
 		employee.setEmpSal(100000.00);
 		
 		// step-6 perform the operations
-		 session.save(employee);
+		 Integer id = (Integer) session.save(employee);
+		
 		
 		//step-7 performing transaction operations 
 		transaction.commit();
