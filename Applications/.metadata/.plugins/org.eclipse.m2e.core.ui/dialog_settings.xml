@@ -117,6 +117,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernatePresistOperation"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\SelectOperationUsingGetMethod"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation"/>
