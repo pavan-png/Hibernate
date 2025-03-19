@@ -29,8 +29,8 @@ public class TestApp {
 		// internally connection.setAutoCommit(false)
 		
 		Employee employee = new Employee();
-		employee.setEmpId(4);
-		employee.setEmpName("srinivas");
+		employee.setEmpId(1);
+		employee.setEmpName("pavan");
 		employee.setEmpSal(1000000.00);
 		
 		// step-6 perform the operations

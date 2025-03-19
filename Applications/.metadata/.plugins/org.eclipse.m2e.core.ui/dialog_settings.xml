@@ -57,6 +57,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.GetOperationMappingWithXml"/>
 			<item value="orcas.hibernate.HibernatePresistOperation"/>
 			<item value="orcas.hibernate.SaveOrUpdateOperation"/>
 			<item value="orcas.hibernate.SelectOperationUsingGetMethod"/>
@@ -70,6 +71,7 @@
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="GetOperationMappingWithXml"/>
 			<item value="HibernatePresistOperation"/>
 			<item value="SaveOrUpdateOperation"/>
 			<item value="SelectOperationUsingGetMethod"/>
