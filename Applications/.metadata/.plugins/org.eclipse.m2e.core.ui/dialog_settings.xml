@@ -27,6 +27,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Administrator\Hibernate\Applications\GetOperationMappingWithXml"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation\src\main\java\in\orcas\model\Employee.java"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\SelectOperationUsingGetMethod"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation\src\main\java\in\orcas\main\TestApp.java"/>
@@ -57,6 +58,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.LoadOperationInternalWorking"/>
 			<item value="orcas.hibernate.GetOperationMappingWithXml"/>
 			<item value="orcas.hibernate.HibernatePresistOperation"/>
 			<item value="orcas.hibernate.SaveOrUpdateOperation"/>
@@ -71,6 +73,7 @@
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="LoadOperationInternalWorking"/>
 			<item value="GetOperationMappingWithXml"/>
 			<item value="HibernatePresistOperation"/>
 			<item value="SaveOrUpdateOperation"/>
@@ -119,6 +122,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Hibernate\Applications\GetOperationMappingWithXml"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernatePresistOperation"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\SelectOperationUsingGetMethod"/>
