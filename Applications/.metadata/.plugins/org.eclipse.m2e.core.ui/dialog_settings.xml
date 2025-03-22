@@ -58,6 +58,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.MergeOperationInternalWorking"/>
+			<item value="orcas.hibernate.SaveOrUpdateInternalWorking"/>
 			<item value="orcas.hibernate.UpdateOperationInternalWorking"/>
 			<item value="orcas.hibernate.LoadOperationInternalWorking"/>
 			<item value="orcas.hibernate.GetOperationMappingWithXml"/>
@@ -74,6 +76,8 @@
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="MergeOperationInternalWorking"/>
+			<item value="SaveOrUpdateInternalWorking"/>
 			<item value="UpdateOperationInternalWorking"/>
 			<item value="LoadOperationInternalWorking"/>
 			<item value="GetOperationMappingWithXml"/>
@@ -124,6 +128,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Hibernate\Applications\UpdateOperationInternalWorking"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\LoadOperationInternalWorking"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\GetOperationMappingWithXml"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\GetOperationMappingWithXml"/>

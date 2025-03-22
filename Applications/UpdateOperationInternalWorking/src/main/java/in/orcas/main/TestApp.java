@@ -17,12 +17,20 @@ public class TestApp {
 		Session session = buildSessionFactory.openSession();
 		
 		Transaction transaction = session.beginTransaction();
-		int id = 1;
+		int id = 5;
 		Employee employee = null;
 		employee = session.get(Employee.class, id);
+		/*
+		 * if we are fetching the record from db with get() then no need to create object for Employee class ( record type class )
+		 * internally get() method creates the object and sets the data to the private variables using setter methods based on
+		 * if the record is available with that primary key. 
+		 */
 		Boolean flag = null;
 		
 		if(employee != null) {
+			/*
+			 * later we are updating the data using that employee object created by get() method.
+			 */
 			employee.setEmpName("pavan");
 			employee.setEmpSal(500000.00);
 			session.update(employee);
