@@ -58,6 +58,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.UpdateOperationInternalWorking"/>
 			<item value="orcas.hibernate.LoadOperationInternalWorking"/>
 			<item value="orcas.hibernate.GetOperationMappingWithXml"/>
 			<item value="orcas.hibernate.HibernatePresistOperation"/>
@@ -73,6 +74,7 @@
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="UpdateOperationInternalWorking"/>
 			<item value="LoadOperationInternalWorking"/>
 			<item value="GetOperationMappingWithXml"/>
 			<item value="HibernatePresistOperation"/>
@@ -122,6 +124,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mohan\Hibernate\Applications\LoadOperationInternalWorking"/>
+			<item value="C:\Users\mohan\Hibernate\Applications\GetOperationMappingWithXml"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\GetOperationMappingWithXml"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernatePresistOperation"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation"/>
