@@ -3441,3 +3441,4 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected ST
 2025-03-22 23:56:52,592 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\MergeOperationInternalWorking\src\test\resources
 2025-03-22 23:56:59,813 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\MergeOperationInternalWorking\src\main\resources
 2025-03-22 23:56:59,818 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\MergeOperationInternalWorking\src\test\resources
+2025-03-23 13:05:13,431 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
