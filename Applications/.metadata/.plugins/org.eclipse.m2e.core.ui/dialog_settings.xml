@@ -58,6 +58,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.DbTableToRowObject"/>
+			<item value="orcas.hibernate.EntityObjectToDbRow"/>
 			<item value="orcas.hibernate.DeleteOperationWithGet"/>
 			<item value="orcas.hibernate.DeleteOperationInternalWorking"/>
 			<item value="orcas.hibernate.MergeOperationInternalWorking"/>
@@ -71,13 +73,13 @@
 			<item value="orcas.hibernate.DeleteOperationUsingDeleteMethod"/>
 			<item value="orcas.hibernate"/>
 			<item value="orcas.hibernate.SelectOperationUsingLoadMethod"/>
-			<item value="orcas.hibernate.HibernateSaveOperation_1"/>
-			<item value="orcas.hibernate.HIbernateSaveOperation"/>
 		</list>
 		<list key="groupId">
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="DbTableToRowObject"/>
+			<item value="EntityObjectToDbRow"/>
 			<item value="DeleteOperationWithGet"/>
 			<item value="DeleteOperationInternalWorking"/>
 			<item value="MergeOperationInternalWorking"/>
@@ -91,7 +93,6 @@
 			<item value="DeleteOperationUsingDeleteMethod"/>
 			<item value="SelectOperationUsingLoadMethod"/>
 			<item value="HibernateSaveOperation_1"/>
-			<item value="HIbernateSaveOperation"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -132,6 +133,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\vijay\Hibernate\Applications\DeleteOperationWithGet"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\MergeOperationInternalWorking"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\UpdateOperationInternalWorking"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\LoadOperationInternalWorking"/>
