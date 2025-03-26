@@ -58,6 +58,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.HbGeneratorsApp"/>
 			<item value="orcas.hibernate.DbTableToRowObject"/>
 			<item value="orcas.hibernate.EntityObjectToDbRow"/>
 			<item value="orcas.hibernate.DeleteOperationWithGet"/>
@@ -72,12 +73,12 @@
 			<item value="orcas.hibernate.SelectOperationUsingGetMethod"/>
 			<item value="orcas.hibernate.DeleteOperationUsingDeleteMethod"/>
 			<item value="orcas.hibernate"/>
-			<item value="orcas.hibernate.SelectOperationUsingLoadMethod"/>
 		</list>
 		<list key="groupId">
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="HbGeneratorsApp"/>
 			<item value="DbTableToRowObject"/>
 			<item value="EntityObjectToDbRow"/>
 			<item value="DeleteOperationWithGet"/>
@@ -92,7 +93,6 @@
 			<item value="SelectOperationUsingGetMethod"/>
 			<item value="DeleteOperationUsingDeleteMethod"/>
 			<item value="SelectOperationUsingLoadMethod"/>
-			<item value="HibernateSaveOperation_1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -133,6 +133,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mohan\Hibernate\Applications\DbTableToRowObject"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\DeleteOperationWithGet"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\MergeOperationInternalWorking"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\UpdateOperationInternalWorking"/>
