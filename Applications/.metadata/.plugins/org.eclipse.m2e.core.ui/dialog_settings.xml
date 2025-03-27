@@ -134,6 +134,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsApp"/>
+			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsIncrement"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\DbTableToRowObject"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\DeleteOperationWithGet"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\MergeOperationInternalWorking"/>

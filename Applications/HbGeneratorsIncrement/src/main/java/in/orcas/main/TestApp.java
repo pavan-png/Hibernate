@@ -18,8 +18,18 @@ public class TestApp {
 		
 		Transaction transaction = session.beginTransaction();
 		Employee employee = new Employee();
+		Boolean flag = false;
 		if(transaction!=null) {
-			employee.setEmpName(null);
+			employee.setEmpName("devadatta");
+			employee.setEmpSal(1500000.00);
+			flag = true;
+		}
+		if(flag == true) {
+			session.save(employee);
+			transaction.commit();
+		}
+		else {
+			transaction.rollback();
 		}
 	}
 

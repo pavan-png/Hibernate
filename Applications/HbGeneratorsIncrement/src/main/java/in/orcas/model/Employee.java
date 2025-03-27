@@ -16,11 +16,14 @@ public class Employee{
 
 	@Id
 	@Column(name = "empid")
+	@GenericGenerator(name = "gen1",strategy ="increment")
+	@GeneratedValue(generator = "gen1")
 	private Integer empId;
 	
 	@Column(name = "empname")
 	private String empName;
-
+	
+	@Column(name = "empsal")
 	private Double empSal;
 	
 	static {
