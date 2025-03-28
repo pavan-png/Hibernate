@@ -59,6 +59,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.JpaGeneratorsIdentity"/>
 			<item value="orcas.hibernate.HbGeneratorsIncrement"/>
 			<item value="orcas.hibernate.HbGeneratorsApp"/>
 			<item value="orcas.hibernate.DbTableToRowObject"/>
@@ -73,12 +74,12 @@
 			<item value="orcas.hibernate.HibernatePresistOperation"/>
 			<item value="orcas.hibernate.SaveOrUpdateOperation"/>
 			<item value="orcas.hibernate.SelectOperationUsingGetMethod"/>
-			<item value="orcas.hibernate.DeleteOperationUsingDeleteMethod"/>
 		</list>
 		<list key="groupId">
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="JpaGeneratorsIdentity"/>
 			<item value="HbGeneratorsIncrement"/>
 			<item value="HbGeneratorsApp"/>
 			<item value="DbTableToRowObject"/>
@@ -93,7 +94,6 @@
 			<item value="HibernatePresistOperation"/>
 			<item value="SaveOrUpdateOperation"/>
 			<item value="SelectOperationUsingGetMethod"/>
-			<item value="DeleteOperationUsingDeleteMethod"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -134,6 +134,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mohan\Hibernate\Applications\HbGeneratorsIncrement"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsApp"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsIncrement"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\DbTableToRowObject"/>
