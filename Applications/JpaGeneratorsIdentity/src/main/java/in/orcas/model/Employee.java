@@ -16,7 +16,7 @@ public class Employee{
 
 	@Id
 	@Column(name = "empid")
-	@GeneratedValue(strategy = GenerationType.IDENTITY) 
+	@GeneratedValue(strategy = GenerationType.IDENTITY)  
 	private Integer empId;
 	
 	@Column(name = "empname" , length = 20)
