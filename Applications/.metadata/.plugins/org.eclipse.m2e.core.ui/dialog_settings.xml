@@ -27,6 +27,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsAuto\src\main\java\in\orcas\main\TestApp.java"/>
+			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsIdentity"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HbGeneratorsApp\src\main\java\in\orcas\model\Employee.java"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\GetOperationMappingWithXml"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation\src\main\java\in\orcas\model\Employee.java"/>
@@ -59,6 +61,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.JpaGeneratorsCompositePrimarykey"/>
+			<item value="orcas.hibernate.JpaGeneratorsAuto"/>
 			<item value="orcas.hibernate.JpaGeneratorsIdentity"/>
 			<item value="orcas.hibernate.HbGeneratorsIncrement"/>
 			<item value="orcas.hibernate.HbGeneratorsApp"/>
@@ -72,13 +76,13 @@
 			<item value="orcas.hibernate.LoadOperationInternalWorking"/>
 			<item value="orcas.hibernate.GetOperationMappingWithXml"/>
 			<item value="orcas.hibernate.HibernatePresistOperation"/>
-			<item value="orcas.hibernate.SaveOrUpdateOperation"/>
-			<item value="orcas.hibernate.SelectOperationUsingGetMethod"/>
 		</list>
 		<list key="groupId">
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="JpaGeneratorsCompositePrimarykey"/>
+			<item value="JpaGeneratorsAuto"/>
 			<item value="JpaGeneratorsIdentity"/>
 			<item value="HbGeneratorsIncrement"/>
 			<item value="HbGeneratorsApp"/>
@@ -92,8 +96,6 @@
 			<item value="LoadOperationInternalWorking"/>
 			<item value="GetOperationMappingWithXml"/>
 			<item value="HibernatePresistOperation"/>
-			<item value="SaveOrUpdateOperation"/>
-			<item value="SelectOperationUsingGetMethod"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -134,6 +136,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsIdentity"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HbGeneratorsIncrement"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsApp"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsIncrement"/>
