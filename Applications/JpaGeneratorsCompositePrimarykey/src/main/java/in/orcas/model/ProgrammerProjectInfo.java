@@ -30,6 +30,14 @@ public class ProgrammerProjectInfo {
 	public ProjectInfo getProjectInfo() {
 		return projectInfo;
 	}
+	
+	public ProgrammerProjectInfo(String programmerName, Integer deptNo, String projectName, ProjectInfo projectInfo) {
+		super();
+		this.programmerName = programmerName;
+		this.deptNo = deptNo;
+		this.projectName = projectName;
+		this.projectInfo = projectInfo;
+	}
 	@Override
 	public String toString() {
 		return "ProgrammerProjectInfo [programmerName=" + programmerName + ", deptNo=" + deptNo + ", projectName="

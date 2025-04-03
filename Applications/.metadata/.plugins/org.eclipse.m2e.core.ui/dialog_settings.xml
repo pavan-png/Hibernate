@@ -136,9 +136,10 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsIdentity"/>
+			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsCompositePrimarykey"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsAuto"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsCompositePrimarykey"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsIdentity"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HbGeneratorsIncrement"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsApp"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsIncrement"/>
@@ -150,7 +151,6 @@
 			<item value="C:\Users\mohan\Hibernate\Applications\GetOperationMappingWithXml"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\GetOperationMappingWithXml"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernatePresistOperation"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
