@@ -27,6 +27,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStamping\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateVersioning\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsCompositePrimarykey\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsAuto\src\main\java\in\orcas\main\TestApp.java"/>
@@ -63,6 +64,9 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.HibernateTimeStampingLastUpdatedTime"/>
+			<item value="orcas.hibernate.HibernateTimeStamping1"/>
+			<item value="orcas.hibernate.HibernateTimeStamping"/>
 			<item value="orcas.hibernate.HibernateVersioningLoad"/>
 			<item value="orcas.hibernate.HibernateVersioning"/>
 			<item value="orcas.hibernate.HibernateDateTime"/>
@@ -75,14 +79,14 @@
 			<item value="orcas.hibernate.EntityObjectToDbRow"/>
 			<item value="orcas.hibernate.DeleteOperationWithGet"/>
 			<item value="orcas.hibernate.DeleteOperationInternalWorking"/>
-			<item value="orcas.hibernate.MergeOperationInternalWorking"/>
-			<item value="orcas.hibernate.SaveOrUpdateInternalWorking"/>
-			<item value="orcas.hibernate.UpdateOperationInternalWorking"/>
 		</list>
 		<list key="groupId">
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="HibernateTimeStampingLastUpdatedTime"/>
+			<item value="HibernateTimeStamping1"/>
+			<item value="HibernateTimeStamping"/>
 			<item value="HibernateVersioningLoad"/>
 			<item value="HibernateVersioning"/>
 			<item value="HibernateDateTime"/>
@@ -95,9 +99,6 @@
 			<item value="EntityObjectToDbRow"/>
 			<item value="DeleteOperationWithGet"/>
 			<item value="DeleteOperationInternalWorking"/>
-			<item value="MergeOperationInternalWorking"/>
-			<item value="SaveOrUpdateInternalWorking"/>
-			<item value="UpdateOperationInternalWorking"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -138,6 +139,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateVersioningLoad"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateDateTime"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsCompositePrimarykey"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsIdentity"/>
@@ -152,7 +154,6 @@
 			<item value="C:\Users\Administrator\Hibernate\Applications\UpdateOperationInternalWorking"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\LoadOperationInternalWorking"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\GetOperationMappingWithXml"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications\GetOperationMappingWithXml"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
