@@ -27,6 +27,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateVersioning\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsCompositePrimarykey\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsAuto\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsIdentity"/>
@@ -62,6 +63,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.HibernateVersioningLoad"/>
+			<item value="orcas.hibernate.HibernateVersioning"/>
 			<item value="orcas.hibernate.HibernateDateTime"/>
 			<item value="orcas.hibernate.JpaGeneratorsCompositePrimarykey"/>
 			<item value="orcas.hibernate.JpaGeneratorsAuto"/>
@@ -75,13 +78,13 @@
 			<item value="orcas.hibernate.MergeOperationInternalWorking"/>
 			<item value="orcas.hibernate.SaveOrUpdateInternalWorking"/>
 			<item value="orcas.hibernate.UpdateOperationInternalWorking"/>
-			<item value="orcas.hibernate.LoadOperationInternalWorking"/>
-			<item value="orcas.hibernate.GetOperationMappingWithXml"/>
 		</list>
 		<list key="groupId">
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="HibernateVersioningLoad"/>
+			<item value="HibernateVersioning"/>
 			<item value="HibernateDateTime"/>
 			<item value="JpaGeneratorsCompositePrimarykey"/>
 			<item value="JpaGeneratorsAuto"/>
@@ -95,8 +98,6 @@
 			<item value="MergeOperationInternalWorking"/>
 			<item value="SaveOrUpdateInternalWorking"/>
 			<item value="UpdateOperationInternalWorking"/>
-			<item value="LoadOperationInternalWorking"/>
-			<item value="GetOperationMappingWithXml"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
