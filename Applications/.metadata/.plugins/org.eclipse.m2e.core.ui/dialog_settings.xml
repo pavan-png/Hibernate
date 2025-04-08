@@ -139,6 +139,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateVersioningLoad"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateDateTime"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsCompositePrimarykey"/>
@@ -153,7 +154,6 @@
 			<item value="C:\Users\mohan\Hibernate\Applications\MergeOperationInternalWorking"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\UpdateOperationInternalWorking"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\LoadOperationInternalWorking"/>
-			<item value="C:\Users\mohan\Hibernate\Applications\GetOperationMappingWithXml"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

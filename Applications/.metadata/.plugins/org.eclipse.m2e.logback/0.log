@@ -5451,3 +5451,20 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestApp (1) referen
 2025-04-07 17:41:07,268 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@43168123{STOPPING}[12.0.12,sto=0]
 2025-04-07 17:41:07,272 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7e4a6b2a{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2025-04-07 20:31:43,506 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-07 21:30:28,419 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-04-07 21:33:16,474 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: orcas.hibernate:HibernateTimeStampingLastUpdatedTime:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime\pom.xml.
+2025-04-07 21:33:22,623 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateTimeStampingLastUpdatedTime/src/main/java
+2025-04-07 21:33:22,626 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateTimeStampingLastUpdatedTime/src/main/resources
+2025-04-07 21:33:22,628 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateTimeStampingLastUpdatedTime/src/test/java
+2025-04-07 21:33:22,629 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateTimeStampingLastUpdatedTime/src/test/resources
+2025-04-07 21:33:22,826 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2025-04-07 21:33:23,185 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-07 21:33:23,286 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: orcas.hibernate:HibernateTimeStampingLastUpdatedTime:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime\pom.xml.
+2025-04-07 21:33:23,655 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateTimeStampingLastUpdatedTime/src/main/java
+2025-04-07 21:33:23,656 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateTimeStampingLastUpdatedTime/src/main/resources
+2025-04-07 21:33:23,657 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateTimeStampingLastUpdatedTime/src/test/java
+2025-04-07 21:33:23,658 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateTimeStampingLastUpdatedTime/src/test/resources
+2025-04-07 21:33:24,037 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-04-07 21:33:24,619 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime\src\main\resources
+2025-04-07 21:33:24,623 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime\src\test\resources
+2025-04-08 10:22:06,650 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
