@@ -27,6 +27,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateCachingGet\src\main\java\in\orcas\main\TestApp.java"/>
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateCachingApp\src\main\java\in\orcas\main\TestApp.java"/>
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStamping\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateVersioning\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsCompositePrimarykey\src\main\java\in\orcas\main\TestApp.java"/>
@@ -39,8 +42,6 @@
 			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\SelectOperationUsingLoadMethod\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation\pom.xml"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation\src"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -64,6 +65,9 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.HibernateCachingEvictClear"/>
+			<item value="orcas.hibernate.HibernateCachingGet"/>
+			<item value="orcas.hibernate.HibernateCachingApp"/>
 			<item value="orcas.hibernate.HibernateTimeStampingLastUpdatedTime"/>
 			<item value="orcas.hibernate.HibernateTimeStamping1"/>
 			<item value="orcas.hibernate.HibernateTimeStamping"/>
@@ -76,14 +80,14 @@
 			<item value="orcas.hibernate.HbGeneratorsIncrement"/>
 			<item value="orcas.hibernate.HbGeneratorsApp"/>
 			<item value="orcas.hibernate.DbTableToRowObject"/>
-			<item value="orcas.hibernate.EntityObjectToDbRow"/>
-			<item value="orcas.hibernate.DeleteOperationWithGet"/>
-			<item value="orcas.hibernate.DeleteOperationInternalWorking"/>
 		</list>
 		<list key="groupId">
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="HibernateCachingEvictClear"/>
+			<item value="HibernateCachingGet"/>
+			<item value="HibernateCachingApp"/>
 			<item value="HibernateTimeStampingLastUpdatedTime"/>
 			<item value="HibernateTimeStamping1"/>
 			<item value="HibernateTimeStamping"/>
@@ -96,9 +100,6 @@
 			<item value="HbGeneratorsIncrement"/>
 			<item value="HbGeneratorsApp"/>
 			<item value="DbTableToRowObject"/>
-			<item value="EntityObjectToDbRow"/>
-			<item value="DeleteOperationWithGet"/>
-			<item value="DeleteOperationInternalWorking"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -139,6 +140,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateVersioningLoad"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateDateTime"/>
@@ -153,7 +155,6 @@
 			<item value="C:\Users\vijay\Hibernate\Applications\DeleteOperationWithGet"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\MergeOperationInternalWorking"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\UpdateOperationInternalWorking"/>
-			<item value="C:\Users\mohan\Hibernate\Applications\LoadOperationInternalWorking"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
