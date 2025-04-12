@@ -140,6 +140,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateCachingApp"/>
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateL2Cache"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingEvictClear"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
@@ -153,8 +155,6 @@
 			<item value="C:\Users\mohan\Hibernate\Applications\HbGeneratorsIncrement"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsApp"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsIncrement"/>
-			<item value="C:\Users\mohan\Hibernate\Applications\DbTableToRowObject"/>
-			<item value="C:\Users\vijay\Hibernate\Applications\DeleteOperationWithGet"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

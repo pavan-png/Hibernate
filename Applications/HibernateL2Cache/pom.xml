@@ -55,18 +55,11 @@
     <artifactId>ojdbc11</artifactId>
     <version>21.9.0.0</version>
 </dependency>
-<dependency>
-    <groupId>org.hibernate.orm</groupId>
-    <artifactId>hibernate-jcache</artifactId>
-    <version>...</version>
-</dependency>
-<dependency>
-    <groupId>org.ehcache</groupId>
-    <artifactId>ehcache</artifactId>
-    <version>...</version>
-    <classifier>jakarta</classifier>
-</dependency>
 
+<dependency>
+    <groupId>net.sf.ehcache</groupId>
+    <artifactId>ehcache</artifactId>
+    <version>2.10.6</version> </dependency>
   </dependencies>
 
   <build>
