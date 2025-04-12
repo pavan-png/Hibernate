@@ -65,6 +65,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="orcas.hibernate.HibernateL2Cache"/>
+			<item value="orcas.hibernate.HibernateCachingHashCode"/>
 			<item value="orcas.hibernate.HibernateCachingEvictClear"/>
 			<item value="orcas.hibernate.HibernateCachingGet"/>
 			<item value="orcas.hibernate.HibernateCachingApp"/>
@@ -78,13 +80,13 @@
 			<item value="orcas.hibernate.JpaGeneratorsAuto"/>
 			<item value="orcas.hibernate.JpaGeneratorsIdentity"/>
 			<item value="orcas.hibernate.HbGeneratorsIncrement"/>
-			<item value="orcas.hibernate.HbGeneratorsApp"/>
-			<item value="orcas.hibernate.DbTableToRowObject"/>
 		</list>
 		<list key="groupId">
 			<item value="orcas.hibernate"/>
 		</list>
 		<list key="artifactId">
+			<item value="HibernateL2Cache"/>
+			<item value="HibernateCachingHashCode"/>
 			<item value="HibernateCachingEvictClear"/>
 			<item value="HibernateCachingGet"/>
 			<item value="HibernateCachingApp"/>
@@ -98,8 +100,6 @@
 			<item value="JpaGeneratorsAuto"/>
 			<item value="JpaGeneratorsIdentity"/>
 			<item value="HbGeneratorsIncrement"/>
-			<item value="HbGeneratorsApp"/>
-			<item value="DbTableToRowObject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -140,6 +140,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp"/>
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingEvictClear"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateVersioningLoad"/>
@@ -153,8 +155,6 @@
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsIncrement"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\DbTableToRowObject"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\DeleteOperationWithGet"/>
-			<item value="C:\Users\mohan\Hibernate\Applications\MergeOperationInternalWorking"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications\UpdateOperationInternalWorking"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
