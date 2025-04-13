@@ -65,41 +65,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="orcas.hibernate.HibernateL2Cache"/>
-			<item value="orcas.hibernate.HibernateCachingHashCode"/>
-			<item value="orcas.hibernate.HibernateCachingEvictClear"/>
-			<item value="orcas.hibernate.HibernateCachingGet"/>
-			<item value="orcas.hibernate.HibernateCachingApp"/>
-			<item value="orcas.hibernate.HibernateTimeStampingLastUpdatedTime"/>
-			<item value="orcas.hibernate.HibernateTimeStamping1"/>
-			<item value="orcas.hibernate.HibernateTimeStamping"/>
-			<item value="orcas.hibernate.HibernateVersioningLoad"/>
-			<item value="orcas.hibernate.HibernateVersioning"/>
-			<item value="orcas.hibernate.HibernateDateTime"/>
-			<item value="orcas.hibernate.JpaGeneratorsCompositePrimarykey"/>
-			<item value="orcas.hibernate.JpaGeneratorsAuto"/>
-			<item value="orcas.hibernate.JpaGeneratorsIdentity"/>
-			<item value="orcas.hibernate.HbGeneratorsIncrement"/>
+			<item value="in.orcas.HibernateL2Cache"/>
 		</list>
 		<list key="groupId">
-			<item value="orcas.hibernate"/>
+			<item value="in.orcas"/>
 		</list>
 		<list key="artifactId">
 			<item value="HibernateL2Cache"/>
-			<item value="HibernateCachingHashCode"/>
-			<item value="HibernateCachingEvictClear"/>
-			<item value="HibernateCachingGet"/>
-			<item value="HibernateCachingApp"/>
-			<item value="HibernateTimeStampingLastUpdatedTime"/>
-			<item value="HibernateTimeStamping1"/>
-			<item value="HibernateTimeStamping"/>
-			<item value="HibernateVersioningLoad"/>
-			<item value="HibernateVersioning"/>
-			<item value="HibernateDateTime"/>
-			<item value="JpaGeneratorsCompositePrimarykey"/>
-			<item value="JpaGeneratorsAuto"/>
-			<item value="JpaGeneratorsIdentity"/>
-			<item value="HbGeneratorsIncrement"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -140,9 +112,10 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp"/>
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateCachingApp"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateL2Cache"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingEvictClear"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
@@ -154,7 +127,6 @@
 			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsAuto"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HbGeneratorsIncrement"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsApp"/>
-			<item value="C:\Users\vijay\Hibernate\Applications\HbGeneratorsIncrement"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
