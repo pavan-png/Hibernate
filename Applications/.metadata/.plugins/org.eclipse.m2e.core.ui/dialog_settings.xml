@@ -27,6 +27,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\pom.xml"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateCachingGet\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateCachingApp\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
@@ -41,7 +42,6 @@
 			<item value="C:\Users\vijay\Hibernate\Applications\SelectOperationUsingGetMethod"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation\src\main\java\in\orcas\main\TestApp.java"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\SelectOperationUsingLoadMethod\src\main\java\in\orcas\main\TestApp.java"/>
-			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation\pom.xml"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
