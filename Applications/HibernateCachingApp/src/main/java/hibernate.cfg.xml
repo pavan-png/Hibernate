@@ -1,19 +1,14 @@
-<!DOCTYPE hibernate-configuration PUBLIC
-        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
-        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
-
 <hibernate-configuration>
     <session-factory>
+
         <!-- JDBC Database connection settings -->
         <property name="hibernate.connection.driver_class">oracle.jdbc.OracleDriver</property>
         <property name="hibernate.connection.url">jdbc:oracle:thin:@localhost:1521:orcl</property>
         <property name="hibernate.connection.username">practice</property>
         <property name="hibernate.connection.password">1234</property>
 
-      
-
         <!-- SQL dialect for Oracle -->
-        <property name="hibernate.dialect">org.hibernate.dialect.OracleDialect</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.Oracle12cDialect</property>
 
         <!-- Show SQL in console (set to false in production) -->
         <property name="hibernate.show_sql">true</property>
@@ -24,12 +19,14 @@
         <!-- Automatically update the database schema -->
         <property name="hibernate.hbm2ddl.auto">update</property>
 
-		<property name = "">true</property>
-		
-		
-		<property name="cache.use_second_level_cache"> true</property>
-		<property name="cache.region.factory_class">org.hibernate.cache.ehcache.internal.EhcacheRegionFactory</property>
+        <!-- Caching configuration -->
+        <property name="hibernate.cache.region.factory_class">org.hibernate.cache.jcache.JCacheRegionFactory</property>
+        <property name="hibernate.cache.use_second_level_cache">true</property>
+        <property name="hibernate.cache.use_query_cache">true</property>
+        <property name="javax.cache.provider">org.ehcache.jsr107.EhcacheCachingProvider</property>
+        <property name="hibernate.javax.cache.uri">ehcache.xml</property>
+        
         <!-- Mention annotated classes -->
-        <mapping class = "in.orcas.model.InsurancePolicy"/>
+        <mapping class="in.orcas.model.InsurancePolicy"/>
     </session-factory>
 </hibernate-configuration>

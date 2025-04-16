@@ -13546,3 +13546,979 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestApp references 
 2025-04-14 14:40:19,410 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
 2025-04-14 14:40:21,661 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@165cd529{STOPPING}[12.0.16,sto=0]
 2025-04-14 14:40:21,665 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@c7a4684{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-15 12:45:42,250 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-15 12:54:07,927 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-15 12:54:08,004 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@3436e2cb{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@1f8bf50{STARTED}}
+2025-04-15 12:54:08,005 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-15 12:54:08,044 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@24f3d9f4{HTTP/1.1, (http/1.1)}{127.0.0.1:54066}
+2025-04-15 12:54:08,078 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@3c38178b{STARTING}[12.0.16,sto=0] @834604ms
+2025-04-15 13:09:06,882 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 13:09:06,886 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 13:38:28,587 [Worker-41: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 13:38:28,594 [Worker-41: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 13:49:54,033 [Worker-49: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 13:49:54,040 [Worker-49: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 14:21:40,510 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 14:21:40,517 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 14:22:01,986 [Worker-56: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 14:22:01,992 [Worker-56: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 14:22:34,934 [Worker-52: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 14:22:34,939 [Worker-52: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 14:26:00,533 [Worker-57: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 14:26:00,538 [Worker-57: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 14:26:46,328 [Worker-58: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 14:26:46,335 [Worker-58: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 14:27:00,147 [Worker-60: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 14:27:00,153 [Worker-60: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 14:36:08,616 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@3c38178b{STOPPING}[12.0.16,sto=0]
+2025-04-15 14:36:08,632 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@24f3d9f4{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-15 14:48:34,043 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-15 14:59:20,369 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-15 14:59:20,442 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@2ffffd91{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@7a13f518{STARTED}}
+2025-04-15 14:59:20,444 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-15 14:59:20,480 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1c884e6a{HTTP/1.1, (http/1.1)}{127.0.0.1:31621}
+2025-04-15 14:59:20,510 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@295e39b2{STARTING}[12.0.16,sto=0] @813124ms
+2025-04-15 14:59:25,824 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 14:59:25,833 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:00:11,077 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:00:11,083 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:02:38,166 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:02:38,172 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:03:56,149 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-15 15:03:56,157 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-15 15:10:42,102 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-15 15:10:42,562 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:10:42,569 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:10:43,803 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:10:43,807 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:10:43,909 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6-javadoc.jar
+2025-04-15 15:10:45,067 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.6/ehcache-2.10.6-javadoc.jar
+2025-04-15 15:10:45,074 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.sf.ehcache:ehcache:2.10.6
+2025-04-15 15:12:19,599 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-15 15:12:20,772 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.pom
+2025-04-15 15:12:20,777 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.pom
+2025-04-15 15:12:20,855 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.12/slf4j-parent-1.7.12.pom
+2025-04-15 15:12:20,861 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.12/slf4j-parent-1.7.12.pom
+2025-04-15 15:12:20,955 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar
+2025-04-15 15:12:20,977 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar
+2025-04-15 15:12:21,216 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:12:21,223 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:12:22,144 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12-sources.jar
+2025-04-15 15:12:22,156 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12-sources.jar
+2025-04-15 15:12:22,160 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.12
+2025-04-15 15:12:22,180 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12-javadoc.jar
+2025-04-15 15:12:22,239 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12-javadoc.jar
+2025-04-15 15:12:22,243 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.slf4j:slf4j-api:1.7.12
+2025-04-15 15:12:22,565 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:12:22,571 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:14:44,475 [Worker-35: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:14:44,483 [Worker-35: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:38:52,397 [Worker-43: Launching TestApp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-15 15:38:52,858 [Worker-43: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:38:52,865 [Worker-43: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:38:53,163 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:38:53,166 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:41:29,850 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:41:29,854 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:41:58,457 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 15:41:58,461 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 15:44:43,877 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-15 15:44:43,882 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-15 15:44:46,291 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@295e39b2{STOPPING}[12.0.16,sto=0]
+2025-04-15 15:44:46,299 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1c884e6a{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-15 17:14:16,975 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-15 17:20:24,253 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-15 17:20:24,656 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.0.Final/hibernate-core-5.6.0.Final.pom
+2025-04-15 17:20:24,678 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.0.Final/hibernate-core-5.6.0.Final.pom
+2025-04-15 17:20:24,909 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final.pom
+2025-04-15 17:20:25,130 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final.pom
+2025-04-15 17:20:25,237 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/37/jboss-parent-37.pom
+2025-04-15 17:20:25,430 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/37/jboss-parent-37.pom
+2025-04-15 17:20:25,537 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.0/junit-bom-5.7.0.pom
+2025-04-15 17:20:25,550 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.0/junit-bom-5.7.0.pom
+2025-04-15 17:20:25,614 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.20/byte-buddy-1.11.20.pom
+2025-04-15 17:20:25,650 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.20/byte-buddy-1.11.20.pom
+2025-04-15 17:20:25,714 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.11.20/byte-buddy-parent-1.11.20.pom
+2025-04-15 17:20:25,936 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.11.20/byte-buddy-parent-1.11.20.pom
+2025-04-15 17:20:26,022 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.pom
+2025-04-15 17:20:26,048 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.pom
+2025-04-15 17:20:26,301 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.0.Final/hibernate-core-5.6.0.Final.jar
+2025-04-15 17:20:29,724 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.0.Final/hibernate-core-5.6.0.Final.jar
+2025-04-15 17:20:29,748 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final.jar
+2025-04-15 17:20:29,760 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final.jar
+2025-04-15 17:20:29,800 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar
+2025-04-15 17:20:29,801 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.20/byte-buddy-1.11.20.jar
+2025-04-15 17:20:29,860 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar
+2025-04-15 17:20:30,698 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.20/byte-buddy-1.11.20.jar
+2025-04-15 17:20:31,089 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:20:31,096 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:20:32,407 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.0.Final/hibernate-core-5.6.0.Final-sources.jar
+2025-04-15 17:20:32,999 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:20:33,004 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:20:33,719 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.0.Final/hibernate-core-5.6.0.Final-sources.jar
+2025-04-15 17:20:33,724 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.6.0.Final
+2025-04-15 17:20:34,305 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-15 17:20:34,889 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.0.Final/hibernate-core-5.6.0.Final-javadoc.jar
+2025-04-15 17:20:39,230 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.0.Final/hibernate-core-5.6.0.Final-javadoc.jar
+2025-04-15 17:20:39,235 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hibernate:hibernate-core:5.6.0.Final
+2025-04-15 17:20:39,315 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final-sources.jar
+2025-04-15 17:20:39,338 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final-sources.jar
+2025-04-15 17:20:39,344 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.4.2.Final
+2025-04-15 17:20:39,369 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final-javadoc.jar
+2025-04-15 17:20:39,404 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final-javadoc.jar
+2025-04-15 17:20:39,410 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.jboss.logging:jboss-logging:3.4.2.Final
+2025-04-15 17:20:39,523 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.20/byte-buddy-1.11.20-sources.jar
+2025-04-15 17:20:39,761 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:20:39,767 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:20:39,796 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.20/byte-buddy-1.11.20-sources.jar
+2025-04-15 17:20:39,801 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.11.20
+2025-04-15 17:20:41,056 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.20/byte-buddy-1.11.20-javadoc.jar
+2025-04-15 17:20:44,831 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.20/byte-buddy-1.11.20-javadoc.jar
+2025-04-15 17:20:44,835 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.bytebuddy:byte-buddy:1.11.20
+2025-04-15 17:20:44,908 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final-sources.jar
+2025-04-15 17:20:44,954 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final-sources.jar
+2025-04-15 17:20:44,959 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss:jandex:2.2.3.Final
+2025-04-15 17:20:45,242 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final-javadoc.jar
+2025-04-15 17:20:45,257 [Worker-16: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.jboss:jandex:2.2.3.Final
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.jboss:jandex:jar:javadoc:2.2.3.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-15 17:22:44,733 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-15 17:22:45,126 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:22:45,134 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:22:46,418 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:22:46,424 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:23:55,465 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-15 17:23:55,811 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:23:55,817 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:23:57,050 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:23:57,054 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:25:01,030 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-15 17:25:01,094 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@1d6e6bba{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@397c1766{STARTED}}
+2025-04-15 17:25:01,094 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-15 17:25:01,125 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@497756ec{HTTP/1.1, (http/1.1)}{127.0.0.1:50156}
+2025-04-15 17:25:01,156 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@9e70b4b{STARTING}[12.0.16,sto=0] @733810ms
+2025-04-15 17:25:03,465 [Worker-16: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:25:03,471 [Worker-16: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:25:25,361 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:25:25,367 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:40:01,205 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:40:01,212 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:40:40,055 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:40:40,059 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:40:51,443 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:40:51,447 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:42:54,705 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:42:54,717 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:44:20,617 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:44:20,620 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:46:23,086 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-15 17:46:23,094 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-15 17:46:51,666 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-15 17:46:51,670 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-15 17:46:57,641 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-15 17:46:57,645 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-15 17:50:27,985 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-15 17:50:28,284 [Worker-48: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.6.0.Final/hibernate-ehcache-5.6.0.Final.pom
+2025-04-15 17:50:28,293 [Worker-48: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.6.0.Final/hibernate-ehcache-5.6.0.Final.pom
+2025-04-15 17:50:28,530 [Worker-48: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.6.0.Final/hibernate-ehcache-5.6.0.Final.jar
+2025-04-15 17:50:28,543 [Worker-48: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.6.0.Final/hibernate-ehcache-5.6.0.Final.jar
+2025-04-15 17:50:28,826 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:50:28,832 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:50:29,204 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:50:29,208 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 17:50:29,788 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.6.0.Final/hibernate-ehcache-5.6.0.Final-sources.jar
+2025-04-15 17:50:29,825 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.6.0.Final/hibernate-ehcache-5.6.0.Final-sources.jar
+2025-04-15 17:50:29,831 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-ehcache:5.6.0.Final
+2025-04-15 17:50:30,103 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.6.0.Final/hibernate-ehcache-5.6.0.Final-javadoc.jar
+2025-04-15 17:50:30,110 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.6.0.Final/hibernate-ehcache-5.6.0.Final-javadoc.jar
+2025-04-15 17:50:30,115 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hibernate:hibernate-ehcache:5.6.0.Final
+2025-04-15 17:51:50,958 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 17:51:50,960 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:02:48,851 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-15 18:02:48,859 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-15 18:05:40,710 [Worker-54: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:05:40,719 [Worker-54: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:07:33,916 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-15 18:07:33,919 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-15 18:09:21,218 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-15 18:09:21,221 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-15 18:09:50,859 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:09:50,861 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:10:19,695 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:10:19,699 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:10:43,568 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:10:43,571 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:15:18,490 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-15 18:15:18,811 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:15:18,815 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:15:19,901 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:15:19,902 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:15:41,816 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:15:41,818 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:19:52,101 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:19:52,103 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:22:35,381 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-15 18:22:35,383 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-15 18:23:52,554 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:23:52,555 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:24:41,115 [Worker-71: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:24:41,117 [Worker-71: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 18:25:25,971 [Worker-71: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-15 18:25:25,974 [Worker-71: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-15 19:05:39,797 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@9e70b4b{STOPPING}[12.0.16,sto=0]
+2025-04-15 19:05:39,809 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@497756ec{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-15 21:49:37,000 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-15 23:12:05,706 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-16 00:01:28,216 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-16 00:01:28,226 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-16 00:01:29,086 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-16 00:01:29,640 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc11/21.1.0.0/ojdbc11-21.1.0.0.pom
+2025-04-16 00:01:29,656 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc11/21.1.0.0/ojdbc11-21.1.0.0.pom
+2025-04-16 00:01:29,814 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-ehcache/6.0.0.Alpha7/hibernate-ehcache-6.0.0.Alpha7.pom
+2025-04-16 00:01:29,821 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-ehcache/6.0.0.Alpha7/hibernate-ehcache-6.0.0.Alpha7.pom
+2025-04-16 00:01:29,918 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.pom
+2025-04-16 00:01:29,924 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.pom
+2025-04-16 00:01:29,941 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/34/jboss-parent-34.pom
+2025-04-16 00:01:29,969 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/34/jboss-parent-34.pom
+2025-04-16 00:01:30,003 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-core/6.0.0.Alpha7/hibernate-core-6.0.0.Alpha7.pom
+2025-04-16 00:01:30,009 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-core/6.0.0.Alpha7/hibernate-core-6.0.0.Alpha7.pom
+2025-04-16 00:01:30,132 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.21/byte-buddy-1.10.21.pom
+2025-04-16 00:01:30,148 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.21/byte-buddy-1.10.21.pom
+2025-04-16 00:01:30,222 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.10.21/byte-buddy-parent-1.10.21.pom
+2025-04-16 00:01:30,235 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.10.21/byte-buddy-parent-1.10.21.pom
+2025-04-16 00:01:30,325 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr4/4.9.1/antlr4-4.9.1.pom
+2025-04-16 00:01:30,330 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr4/4.9.1/antlr4-4.9.1.pom
+2025-04-16 00:01:30,347 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr4-master/4.9.1/antlr4-master-4.9.1.pom
+2025-04-16 00:01:30,352 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr4-master/4.9.1/antlr4-master-4.9.1.pom
+2025-04-16 00:01:30,371 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.pom
+2025-04-16 00:01:30,378 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.pom
+2025-04-16 00:01:30,395 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.pom
+2025-04-16 00:01:30,400 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.pom
+2025-04-16 00:01:30,416 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-master/3.5.2/antlr-master-3.5.2.pom
+2025-04-16 00:01:30,422 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-master/3.5.2/antlr-master-3.5.2.pom
+2025-04-16 00:01:30,439 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/ST4/4.3/ST4-4.3.pom
+2025-04-16 00:01:30,444 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/ST4/4.3/ST4-4.3.pom
+2025-04-16 00:01:30,465 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/abego/treelayout/org.abego.treelayout.core/1.0.3/org.abego.treelayout.core-1.0.3.pom
+2025-04-16 00:01:30,470 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/abego/treelayout/org.abego.treelayout.core/1.0.3/org.abego.treelayout.core-1.0.3.pom
+2025-04-16 00:01:30,488 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.pom
+2025-04-16 00:01:30,493 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.pom
+2025-04-16 00:01:30,510 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/json/1.0.4/json-1.0.4.pom
+2025-04-16 00:01:30,516 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/json/1.0.4/json-1.0.4.pom
+2025-04-16 00:01:30,535 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/ibm/icu/icu4j/61.1/icu4j-61.1.pom
+2025-04-16 00:01:30,539 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/ibm/icu/icu4j/61.1/icu4j-61.1.pom
+2025-04-16 00:01:30,574 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.pom
+2025-04-16 00:01:30,579 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.pom
+2025-04-16 00:01:30,640 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ehcache/ehcache/3.10.0/ehcache-3.10.0.pom
+2025-04-16 00:01:30,645 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ehcache/ehcache/3.10.0/ehcache-3.10.0.pom
+2025-04-16 00:01:30,673 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/maven-metadata.xml
+2025-04-16 00:01:30,677 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/maven-metadata.xml
+2025-04-16 00:01:30,697 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10-b140310.1920 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10-b140310.1920
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:01:30,711 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10-b140802.1033 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10-b140802.1033
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:01:30,723 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:01:30,736 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:01:31,006 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0-b161121.1438/jaxb-api-2.3.0-b161121.1438.pom
+2025-04-16 00:01:32,463 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.java.net/content/repositories/releases/javax/xml/bind/jaxb-api/2.3.0-b161121.1438/jaxb-api-2.3.0-b161121.1438.pom
+2025-04-16 00:01:32,953 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.java.net/content/repositories/snapshots/javax/xml/bind/jaxb-api/2.3.0-b161121.1438/jaxb-api-2.3.0-b161121.1438.pom
+2025-04-16 00:01:33,451 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.java.net/content/repositories/staging/javax/xml/bind/jaxb-api/2.3.0-b161121.1438/jaxb-api-2.3.0-b161121.1438.pom
+2025-04-16 00:01:33,998 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bits.netbeans.org/nexus/content/groups/netbeans/javax/xml/bind/jaxb-api/2.3.0-b161121.1438/jaxb-api-2.3.0-b161121.1438.pom
+2025-04-16 00:01:34,256 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/repositories/releases/javax/xml/bind/jaxb-api/2.3.0-b161121.1438/jaxb-api-2.3.0-b161121.1438.pom
+2025-04-16 00:01:35,030 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.6/istack-commons-runtime-3.0.6.pom
+2025-04-16 00:01:35,643 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.java.net/content/repositories/releases/com/sun/istack/istack-commons-runtime/3.0.6/istack-commons-runtime-3.0.6.pom
+2025-04-16 00:01:36,271 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.java.net/content/repositories/snapshots/com/sun/istack/istack-commons-runtime/3.0.6/istack-commons-runtime-3.0.6.pom
+2025-04-16 00:01:36,975 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.java.net/content/repositories/staging/com/sun/istack/istack-commons-runtime/3.0.6/istack-commons-runtime-3.0.6.pom
+2025-04-16 00:01:37,282 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bits.netbeans.org/nexus/content/groups/netbeans/com/sun/istack/istack-commons-runtime/3.0.6/istack-commons-runtime-3.0.6.pom
+2025-04-16 00:01:37,589 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/repositories/releases/com/sun/istack/istack-commons-runtime/3.0.6/istack-commons-runtime-3.0.6.pom
+2025-04-16 00:01:37,896 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.14/FastInfoset-1.2.14.pom
+2025-04-16 00:01:38,511 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.java.net/content/repositories/releases/com/sun/xml/fastinfoset/FastInfoset/1.2.14/FastInfoset-1.2.14.pom
+2025-04-16 00:01:39,125 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.java.net/content/repositories/snapshots/com/sun/xml/fastinfoset/FastInfoset/1.2.14/FastInfoset-1.2.14.pom
+2025-04-16 00:01:39,740 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.java.net/content/repositories/staging/com/sun/xml/fastinfoset/FastInfoset/1.2.14/FastInfoset-1.2.14.pom
+2025-04-16 00:01:40,046 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bits.netbeans.org/nexus/content/groups/netbeans/com/sun/xml/fastinfoset/FastInfoset/1.2.14/FastInfoset-1.2.14.pom
+2025-04-16 00:01:40,354 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.java.net/content/repositories/releases/com/sun/xml/fastinfoset/FastInfoset/1.2.14/FastInfoset-1.2.14.pom
+2025-04-16 00:01:40,575 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/4.0.5/jaxb-core-4.0.5.pom
+2025-04-16 00:01:40,581 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/4.0.5/jaxb-core-4.0.5.pom
+2025-04-16 00:01:40,666 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-bundles/4.0.5/jaxb-bundles-4.0.5.pom
+2025-04-16 00:01:40,673 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-bundles/4.0.5/jaxb-bundles-4.0.5.pom
+2025-04-16 00:01:40,690 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/4.0.5/jaxb-parent-4.0.5.pom
+2025-04-16 00:01:40,697 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/4.0.5/jaxb-parent-4.0.5.pom
+2025-04-16 00:01:40,715 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/4.0.5/jaxb-bom-ext-4.0.5.pom
+2025-04-16 00:01:40,721 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/4.0.5/jaxb-bom-ext-4.0.5.pom
+2025-04-16 00:01:40,738 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/4.0.5/jaxb-bom-4.0.5.pom
+2025-04-16 00:01:40,744 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/4.0.5/jaxb-bom-4.0.5.pom
+2025-04-16 00:01:40,764 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/4.0.2/jakarta.xml.bind-api-4.0.2.pom
+2025-04-16 00:01:40,769 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/4.0.2/jakarta.xml.bind-api-4.0.2.pom
+2025-04-16 00:01:40,788 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api-parent/4.0.2/jakarta.xml.bind-api-parent-4.0.2.pom
+2025-04-16 00:01:40,793 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api-parent/4.0.2/jakarta.xml.bind-api-parent-4.0.2.pom
+2025-04-16 00:01:40,811 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/2.1.3/jakarta.activation-api-2.1.3.pom
+2025-04-16 00:01:40,822 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/2.1.3/jakarta.activation-api-2.1.3.pom
+2025-04-16 00:01:40,840 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2.pom
+2025-04-16 00:01:40,846 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2.pom
+2025-04-16 00:01:40,865 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation-project/2.0.2/angus-activation-project-2.0.2.pom
+2025-04-16 00:01:40,885 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation-project/2.0.2/angus-activation-project-2.0.2.pom
+2025-04-16 00:01:40,904 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1.pom
+2025-04-16 00:01:40,910 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1.pom
+2025-04-16 00:01:41,299 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 00:01:41,306 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 00:01:42,224 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc11/21.1.0.0/ojdbc11-21.1.0.0-sources.jar
+2025-04-16 00:01:42,229 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc11/21.1.0.0/ojdbc11-21.1.0.0-sources.jar
+2025-04-16 00:01:42,237 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.oracle.database.jdbc:ojdbc11:21.1.0.0
+2025-04-16 00:01:42,307 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc11/21.1.0.0/ojdbc11-21.1.0.0-javadoc.jar
+2025-04-16 00:01:42,930 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc11/21.1.0.0/ojdbc11-21.1.0.0-javadoc.jar
+2025-04-16 00:01:42,934 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.oracle.database.jdbc:ojdbc11:21.1.0.0
+2025-04-16 00:01:42,976 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-ehcache/6.0.0.Alpha7/hibernate-ehcache-6.0.0.Alpha7-sources.jar
+2025-04-16 00:01:42,982 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-ehcache/6.0.0.Alpha7/hibernate-ehcache-6.0.0.Alpha7-sources.jar
+2025-04-16 00:01:42,987 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha7
+2025-04-16 00:01:43,254 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-ehcache/6.0.0.Alpha7/hibernate-ehcache-6.0.0.Alpha7-javadoc.jar
+2025-04-16 00:01:43,263 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-ehcache/6.0.0.Alpha7/hibernate-ehcache-6.0.0.Alpha7-javadoc.jar
+2025-04-16 00:01:43,267 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha7
+2025-04-16 00:01:43,311 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ehcache/ehcache/3.10.0/ehcache-3.10.0-sources.jar
+2025-04-16 00:01:43,416 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ehcache/ehcache/3.10.0/ehcache-3.10.0-sources.jar
+2025-04-16 00:01:43,422 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ehcache:ehcache:3.10.0
+2025-04-16 00:01:43,751 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ehcache/ehcache/3.10.0/ehcache-3.10.0-javadoc.jar
+2025-04-16 00:01:43,882 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ehcache/ehcache/3.10.0/ehcache-3.10.0-javadoc.jar
+2025-04-16 00:01:43,886 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.ehcache:ehcache:3.10.0
+2025-04-16 00:01:43,929 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/4.0.5/jaxb-core-4.0.5-sources.jar
+2025-04-16 00:01:43,985 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/4.0.5/jaxb-core-4.0.5-sources.jar
+2025-04-16 00:01:43,990 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.bind:jaxb-core:4.0.5
+2025-04-16 00:01:44,007 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/4.0.5/jaxb-core-4.0.5-javadoc.jar
+2025-04-16 00:01:44,316 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/4.0.5/jaxb-core-4.0.5-javadoc.jar
+2025-04-16 00:01:44,321 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for com.sun.xml.bind:jaxb-core:4.0.5
+2025-04-16 00:01:44,363 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2-sources.jar
+2025-04-16 00:01:44,370 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2-sources.jar
+2025-04-16 00:01:44,375 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.angus:angus-activation:2.0.2
+2025-04-16 00:01:44,387 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2-javadoc.jar
+2025-04-16 00:01:44,443 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2-javadoc.jar
+2025-04-16 00:01:44,447 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.eclipse.angus:angus-activation:2.0.2
+2025-04-16 00:01:44,487 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359-sources.jar
+2025-04-16 00:01:44,535 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359-sources.jar
+2025-04-16 00:01:44,539 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.4.0-b180830.0359
+2025-04-16 00:01:44,550 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359-javadoc.jar
+2025-04-16 00:01:44,710 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359-javadoc.jar
+2025-04-16 00:01:44,715 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.xml.bind:jaxb-api:2.4.0-b180830.0359
+2025-04-16 00:01:45,009 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1-sources.jar
+2025-04-16 00:01:45,012 [Worker-39: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for javax.xml:jaxb-impl:2.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.xml:jaxb-impl:jar:sources:2.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 00:01:45,336 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1-javadoc.jar
+2025-04-16 00:01:45,349 [Worker-39: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for javax.xml:jaxb-impl:2.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.xml:jaxb-impl:jar:javadoc:2.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 00:03:12,241 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10-b140310.1920 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10-b140310.1920
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:03:12,251 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10-b140802.1033 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10-b140802.1033
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:03:12,266 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:03:12,279 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:03:12,836 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.ahad:hibernate-caching:1.1.0-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-16 00:03:12,984 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc11/21.1.0.0/ojdbc11-21.1.0.0.jar
+2025-04-16 00:03:14,247 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc11/21.1.0.0/ojdbc11-21.1.0.0.jar
+2025-04-16 00:03:14,260 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/4.0.5/jaxb-core-4.0.5.jar
+2025-04-16 00:03:14,297 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/4.0.5/jaxb-core-4.0.5.jar
+2025-04-16 00:03:14,360 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1.jar
+2025-04-16 00:03:14,360 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2.jar
+2025-04-16 00:03:14,360 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar
+2025-04-16 00:03:14,368 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-ehcache/6.0.0.Alpha7/hibernate-ehcache-6.0.0.Alpha7.jar
+2025-04-16 00:03:14,408 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ehcache/ehcache/3.10.0/ehcache-3.10.0.jar
+2025-04-16 00:03:14,529 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/orm/hibernate-ehcache/6.0.0.Alpha7/hibernate-ehcache-6.0.0.Alpha7.jar
+2025-04-16 00:03:14,656 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/jaxb-impl/2.1/jaxb-impl-2.1.jar
+2025-04-16 00:03:14,657 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2.jar
+2025-04-16 00:03:14,658 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar
+2025-04-16 00:03:15,123 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ehcache/ehcache/3.10.0/ehcache-3.10.0.jar
+2025-04-16 00:03:15,387 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 00:03:15,392 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 00:03:16,823 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 00:03:16,827 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 00:04:29,998 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 00:04:30,003 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 00:05:20,308 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-16 00:05:20,383 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@73521c87{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@39eeb65{STARTED}}
+2025-04-16 00:05:20,384 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-16 00:05:20,418 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@83d7691{HTTP/1.1, (http/1.1)}{127.0.0.1:52254}
+2025-04-16 00:05:20,446 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@646fbd1d{STARTING}[12.0.16,sto=0] @3207439ms
+2025-04-16 00:05:42,281 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 00:05:42,285 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 00:06:34,031 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@646fbd1d{STOPPING}[12.0.16,sto=0]
+2025-04-16 00:06:34,036 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@83d7691{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-16 00:07:29,745 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-16 00:07:57,226 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\main\resources
+2025-04-16 00:07:57,235 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\src\test\resources
+2025-04-16 00:08:27,714 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10-b140310.1920 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10-b140310.1920
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:08:27,726 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10-b140802.1033 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10-b140802.1033
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:08:27,740 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:08:27,755 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 00:08:28,540 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 00:08:28,547 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 00:08:56,609 [Worker-1: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 00:08:56,615 [Worker-1: Launching TestApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 00:09:11,444 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-16 00:09:11,515 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@5c0238a8{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@ae4b370{STARTED}}
+2025-04-16 00:09:11,516 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-16 00:09:11,554 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@43a6bf8c{HTTP/1.1, (http/1.1)}{127.0.0.1:52286}
+2025-04-16 00:09:11,580 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@7a36964{STARTING}[12.0.16,sto=0] @118432ms
+2025-04-16 00:09:41,587 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7a36964{STOPPING}[12.0.16,sto=0]
+2025-04-16 00:09:41,592 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@43a6bf8c{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-16 14:06:44,092 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-16 14:11:24,514 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-16 14:11:24,593 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@ff900b7{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@7e2c608d{STARTED}}
+2025-04-16 14:11:24,594 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-16 14:11:24,628 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5aaa59dd{HTTP/1.1, (http/1.1)}{127.0.0.1:54928}
+2025-04-16 14:11:24,656 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@25b79a67{STARTING}[12.0.16,sto=0] @330042ms
+2025-04-16 14:24:59,427 [Worker-32: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10-b140310.1920 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10-b140310.1920
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 14:24:59,450 [Worker-32: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10-b140802.1033 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10-b140802.1033
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 14:24:59,476 [Worker-32: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.10
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 14:24:59,506 [Worker-32: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.glassfish.jaxb:jaxb-runtime:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.glassfish.jaxb:jaxb-runtime:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2025-04-16 14:25:29,704 [Worker-35: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestApp references non-existing project HibernateL2Cache.
+org.eclipse.core.runtime.CoreException: Launch configuration TestApp references non-existing project HibernateL2Cache.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:25:29,711 [Worker-35: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestApp references non-existing project HibernateL2Cache.
+org.eclipse.core.runtime.CoreException: Launch configuration TestApp references non-existing project HibernateL2Cache.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:25:29,717 [Worker-35: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestApp references non-existing project HibernateL2Cache.
+org.eclipse.core.runtime.CoreException: Launch configuration TestApp references non-existing project HibernateL2Cache.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:28:04,867 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [638])
+2025-04-16 14:28:04,870 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-04-16 14:28:04,871 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2025-04-16 14:28:04,871 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2025-04-16 14:28:04,872 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2025-04-16 14:28:04,872 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2025-04-16 14:28:04,872 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2025-04-16 14:28:04,873 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2025-04-16 14:28:04,873 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2025-04-16 14:28:04,873 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2025-04-16 14:28:04,874 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2025-04-16 14:28:04,874 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2025-04-16 14:28:04,874 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2025-04-16 14:28:04,875 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2025-04-16 14:28:04,875 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2025-04-16 14:28:04,875 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2025-04-16 14:28:04,875 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2025-04-16 14:28:04,875 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2025-04-16 14:28:04,876 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-04-16 14:28:04,876 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2025-04-16 14:28:04,876 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2025-04-16 14:28:04,876 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2025-04-16 14:28:04,877 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2025-04-16 14:28:04,877 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2025-04-16 14:28:04,878 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2025-04-16 14:28:04,878 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-04-16 14:28:04,878 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2025-04-16 14:28:04,879 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2025-04-16 14:28:04,879 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2025-04-16 14:28:04,879 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2025-04-16 14:28:04,879 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-04-16 14:28:04,880 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-04-16 14:28:04,880 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2025-04-16 14:28:04,880 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2025-04-16 14:28:04,880 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2025-04-16 14:28:04,881 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2025-04-16 14:28:04,881 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2025-04-16 14:28:04,881 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2025-04-16 14:28:04,881 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2025-04-16 14:28:04,881 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2025-04-16 14:28:04,882 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2025-04-16 14:28:04,882 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2025-04-16 14:28:04,882 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2025-04-16 14:28:04,882 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2025-04-16 14:28:04,882 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2025-04-16 14:28:04,885 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.0.jre [16])
+2025-04-16 14:28:04,886 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\com.google.guava_33.4.0.jre.jar
+2025-04-16 14:28:04,886 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1005])
+2025-04-16 14:28:04,886 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\slf4j.api_2.0.16.jar
+2025-04-16 14:28:04,886 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2025-04-16 14:28:04,888 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-04-16 14:28:04,888 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2025-04-16 14:28:04,888 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\jakarta.annotation-api_1.3.5.jar
+2025-04-16 14:28:04,888 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [74])
+2025-04-16 14:28:04,889 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.apache.commons.cli_1.9.0.jar
+2025-04-16 14:28:04,889 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [76])
+2025-04-16 14:28:04,890 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-04-16 14:28:04,890 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-04-16 14:28:04,891 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-04-16 14:28:04,895 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Administrator\AppData\Local\Temp\m2e-archetypeGenerator10774632501075302314":
+2025-04-16 14:28:04,899 [Worker-36: Launching mavenrun-fc2783d0-e628-448c-8276-1dc16d08c3e7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-simple -DarchetypeVersion=1.5 -DgroupId=in.orcas -DartifactId=HibernateL2Cache -Dversion=0.0.1-SNAPSHOT -Dpackage=in.orcas.HibernateL2Cache -DoutputDirectory=C:\Users\Administrator\Hibernate\Applications -Dstyle.color=always -U archetype:generate
+2025-04-16 14:28:22,974 [Worker-37: Creating maven-archetype-simple] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml
+2025-04-16 14:28:23,317 [Worker-37: Creating maven-archetype-simple] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-16 14:28:23,668 [Worker-37: Creating maven-archetype-simple] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestApp references non-existing project HibernateL2Cache.
+org.eclipse.core.runtime.CoreException: Launch configuration TestApp references non-existing project HibernateL2Cache.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:397)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:324)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:256)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$3.doCreateMavenProjects(MavenProjectWizard.java:251)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:28:23,670 [Worker-37: Creating maven-archetype-simple] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestApp references non-existing project HibernateL2Cache.
+org.eclipse.core.runtime.CoreException: Launch configuration TestApp references non-existing project HibernateL2Cache.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:404)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:397)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:324)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:256)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$3.doCreateMavenProjects(MavenProjectWizard.java:251)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:28:23,673 [Worker-37: Creating maven-archetype-simple] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestApp references non-existing project HibernateL2Cache.
+org.eclipse.core.runtime.CoreException: Launch configuration TestApp references non-existing project HibernateL2Cache.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:398)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:324)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:256)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:166)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$3.doCreateMavenProjects(MavenProjectWizard.java:251)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:28:23,804 [Worker-37: Creating maven-archetype-simple] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateL2Cache/src/main/java
+2025-04-16 14:28:23,806 [Worker-37: Creating maven-archetype-simple] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateL2Cache/src/main/resources
+2025-04-16 14:28:23,811 [Worker-37: Creating maven-archetype-simple] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateL2Cache/src/test/java
+2025-04-16 14:28:23,813 [Worker-37: Creating maven-archetype-simple] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateL2Cache/src/test/resources
+2025-04-16 14:28:23,868 [Worker-37: Creating maven-archetype-simple] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-04-16 14:28:24,278 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 14:28:24,283 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 14:38:11,692 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-16 14:38:12,156 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.pom
+2025-04-16 14:38:12,184 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.pom
+2025-04-16 14:38:12,277 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+2025-04-16 14:38:12,288 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+2025-04-16 14:38:12,378 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2025-04-16 14:38:12,409 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2025-04-16 14:38:12,507 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2025-04-16 14:38:12,515 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2025-04-16 14:38:12,604 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2025-04-16 14:38:12,611 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2025-04-16 14:38:12,707 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2025-04-16 14:38:12,731 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2025-04-16 14:38:12,766 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2025-04-16 14:38:12,771 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2025-04-16 14:38:12,803 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2025-04-16 14:38:12,809 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2025-04-16 14:38:12,830 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2025-04-16 14:38:12,834 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2025-04-16 14:38:12,859 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2025-04-16 14:38:12,867 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2025-04-16 14:38:12,920 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.pom
+2025-04-16 14:38:12,927 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.pom
+2025-04-16 14:38:12,947 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6/jboss-parent-6.pom
+2025-04-16 14:38:12,959 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6/jboss-parent-6.pom
+2025-04-16 14:38:13,068 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.jar
+2025-04-16 14:38:14,253 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.jar
+2025-04-16 14:38:14,296 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2025-04-16 14:38:14,311 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2025-04-16 14:38:14,313 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2025-04-16 14:38:14,316 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2025-04-16 14:38:14,318 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2025-04-16 14:38:14,335 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2025-04-16 14:38:14,343 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2025-04-16 14:38:14,423 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2025-04-16 14:38:14,427 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar
+2025-04-16 14:38:14,432 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2025-04-16 14:38:14,451 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar
+2025-04-16 14:38:14,561 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2025-04-16 14:38:14,786 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 14:38:14,791 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 14:38:15,749 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final-sources.jar
+2025-04-16 14:38:16,070 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 14:38:16,074 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 14:38:16,690 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final-sources.jar
+2025-04-16 14:38:16,695 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:4.1.6.Final
+2025-04-16 14:38:16,994 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final-javadoc.jar
+2025-04-16 14:38:17,008 [Worker-46: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.hibernate:hibernate-core:4.1.6.Final
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.hibernate:hibernate-core:jar:javadoc:4.1.6.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:38:17,060 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA-sources.jar
+2025-04-16 14:38:17,075 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA-sources.jar
+2025-04-16 14:38:17,081 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.1.0.GA
+2025-04-16 14:38:17,340 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA-javadoc.jar
+2025-04-16 14:38:17,343 [Worker-46: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.jboss.logging:jboss-logging:3.1.0.GA
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.jboss.logging:jboss-logging:jar:javadoc:3.1.0.GA
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:38:17,391 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final-sources.jar
+2025-04-16 14:38:17,410 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final-sources.jar
+2025-04-16 14:38:17,416 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.0.Final
+2025-04-16 14:38:17,675 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final-javadoc.jar
+2025-04-16 14:38:17,687 [Worker-46: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.0.Final
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:jar:javadoc:1.0.0.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:38:17,758 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar
+2025-04-16 14:38:17,802 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar
+2025-04-16 14:38:17,807 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for dom4j:dom4j:1.6.1
+2025-04-16 14:38:18,064 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-javadoc.jar
+2025-04-16 14:38:18,077 [Worker-46: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for dom4j:dom4j:1.6.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact dom4j:dom4j:jar:javadoc:1.6.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:38:18,120 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar
+2025-04-16 14:38:18,164 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar
+2025-04-16 14:38:18,169 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final
+2025-04-16 14:38:18,418 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-javadoc.jar
+2025-04-16 14:38:18,431 [Worker-46: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:javadoc:1.0.1.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:38:18,471 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-sources.jar
+2025-04-16 14:38:18,525 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-sources.jar
+2025-04-16 14:38:18,529 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.15.0-GA
+2025-04-16 14:38:18,900 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-javadoc.jar
+2025-04-16 14:38:19,272 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-javadoc.jar
+2025-04-16 14:38:19,277 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.javassist:javassist:3.15.0-GA
+2025-04-16 14:38:19,316 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-sources.jar
+2025-04-16 14:38:19,339 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-sources.jar
+2025-04-16 14:38:19,345 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:4.0.1.Final
+2025-04-16 14:38:19,660 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-javadoc.jar
+2025-04-16 14:38:19,682 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-javadoc.jar
+2025-04-16 14:38:19,689 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.hibernate.common:hibernate-commons-annotations:4.0.1.Final
+2025-04-16 14:41:51,684 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-16 14:41:51,822 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3.pom
+2025-04-16 14:41:51,828 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3.pom
+2025-04-16 14:41:51,885 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-root/2.10.3/ehcache-root-2.10.3.pom
+2025-04-16 14:41:51,890 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-root/2.10.3/ehcache-root-2.10.3.pom
+2025-04-16 14:41:51,910 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.18/ehcache-parent-2.18.pom
+2025-04-16 14:41:51,918 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.18/ehcache-parent-2.18.pom
+2025-04-16 14:41:51,940 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2025-04-16 14:41:51,946 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2025-04-16 14:41:51,964 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2025-04-16 14:41:51,970 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2025-04-16 14:42:01,709 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3.jar
+2025-04-16 14:42:05,848 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3.jar
+2025-04-16 14:42:05,874 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2025-04-16 14:42:05,905 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2025-04-16 14:42:06,143 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 14:42:06,149 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 14:42:07,394 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 14:42:07,399 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 14:42:07,756 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3-sources.jar
+2025-04-16 14:42:08,660 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3-sources.jar
+2025-04-16 14:42:08,664 [Worker-50: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache:2.10.3
+2025-04-16 14:42:09,614 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3-javadoc.jar
+2025-04-16 14:42:10,639 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3-javadoc.jar
+2025-04-16 14:42:10,649 [Worker-50: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.sf.ehcache:ehcache:2.10.3
+2025-04-16 14:42:10,692 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-sources.jar
+2025-04-16 14:42:10,713 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-sources.jar
+2025-04-16 14:42:10,719 [Worker-50: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.7
+2025-04-16 14:42:10,742 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-javadoc.jar
+2025-04-16 14:42:10,769 [Worker-50: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-javadoc.jar
+2025-04-16 14:42:10,775 [Worker-50: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.slf4j:slf4j-api:1.7.7
+2025-04-16 14:45:19,359 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateL2Cache:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\pom.xml.
+2025-04-16 14:45:19,487 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final.pom
+2025-04-16 14:45:19,493 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final.pom
+2025-04-16 14:45:19,533 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.pom
+2025-04-16 14:45:19,546 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.pom
+2025-04-16 14:45:19,578 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.2/ehcache-parent-2.2.pom
+2025-04-16 14:45:19,591 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.2/ehcache-parent-2.2.pom
+2025-04-16 14:45:19,649 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final.jar
+2025-04-16 14:45:19,677 [Worker-51: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final.jar
+2025-04-16 14:45:19,709 [BasicRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.jar
+2025-04-16 14:45:19,883 [BasicRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.jar
+2025-04-16 14:45:20,087 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 14:45:20,094 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 14:45:21,076 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final-sources.jar
+2025-04-16 14:45:21,126 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final-sources.jar
+2025-04-16 14:45:21,132 [Worker-52: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-ehcache:4.1.6.Final
+2025-04-16 14:45:21,236 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\main\resources
+2025-04-16 14:45:21,239 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateL2Cache\src\test\resources
+2025-04-16 14:45:21,416 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final-javadoc.jar
+2025-04-16 14:45:21,429 [Worker-52: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.hibernate:hibernate-ehcache:4.1.6.Final
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.hibernate:hibernate-ehcache:jar:javadoc:4.1.6.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-16 14:45:21,499 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3-sources.jar
+2025-04-16 14:45:21,633 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3-sources.jar
+2025-04-16 14:45:21,638 [Worker-52: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache-core:2.4.3
+2025-04-16 14:45:21,923 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3-javadoc.jar
+2025-04-16 14:45:22,707 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3-javadoc.jar
+2025-04-16 14:45:22,712 [Worker-52: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for net.sf.ehcache:ehcache-core:2.4.3
+2025-04-16 14:50:49,157 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@25b79a67{STOPPING}[12.0.16,sto=0]
+2025-04-16 14:50:49,165 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5aaa59dd{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
