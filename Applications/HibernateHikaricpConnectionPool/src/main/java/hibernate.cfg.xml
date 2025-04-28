@@ -1,0 +1,41 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <!-- JDBC Database connection settings -->
+        <property name="hibernate.connection.driver_class">oracle.jdbc.OracleDriver</property>
+        <property name="hibernate.connection.url">jdbc:oracle:thin:@localhost:1521:orcl</property>
+        <property name="hibernate.connection.username">practice</property>
+        <property name="hibernate.connection.password">1234</property>
+
+      
+
+        <!-- SQL dialect for Oracle -->
+        <property name="hibernate.dialect">org.hibernate.dialect.OracleDialect</property>
+
+        <!-- Show SQL in console (set to false in production) -->
+        <property name="hibernate.show_sql">true</property>
+
+        <!-- Format SQL output -->
+        <property name="hibernate.format_sql">true</property>
+
+        <!-- Automatically update the database schema -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+
+		     <!-- Use HikariCP as Connection Pool -->
+        <property name="hibernate.connection.provider_class">org.hibernate.hikaricp.internal.HikariCPConnectionProvider</property>
+
+        <!-- HikariCP Settings -->
+        <property name="hibernate.hikari.maximumPoolSize">10</property>
+        <property name="hibernate.hikari.minimumIdle">5</property>
+        <property name="hibernate.hikari.idleTimeout">30000</property>
+        <property name="hibernate.hikari.connectionTimeout">20000</property>
+        <property name="hibernate.hikari.maxLifetime">1800000</property>
+		
+		
+        <!-- Mention annotated classes -->
+        <mapping class = "in.orcas.model.InsurancePolicy"/>
+    </session-factory>
+</hibernate-configuration>
