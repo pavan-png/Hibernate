@@ -25,6 +25,49 @@
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
     </dependency>
+		<dependency>
+    <groupId>org.hibernate.orm</groupId>
+    <artifactId>hibernate-core</artifactId>
+    <version>6.6.10.Final</version>
+</dependency>
+
+
+        <!-- Hibernate JPA API -->
+        <dependency>
+            <groupId>jakarta.persistence</groupId>
+            <artifactId>jakarta.persistence-api</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+
+        <!-- Oracle JDBC Driver -->
+        <dependency>
+    <groupId>com.oracle.database.jdbc</groupId>
+    <artifactId>ojdbc11</artifactId> <!-- or ojdbc8 depending on your Java version -->
+    <version>21.9.0.0</version>
+</dependency>
+
+
+        <!-- Logging (Hibernate needs logging) -->
+        <dependency>
+            <groupId>org.jboss.logging</groupId>
+            <artifactId>jboss-logging</artifactId>
+            <version>3.5.0.Final</version>
+        </dependency>
+
+        <!-- For connection pooling (optional, HikariCP recommended) -->
+        <dependency>
+            <groupId>com.zaxxer</groupId>
+            <artifactId>HikariCP</artifactId>
+            <version>5.1.0</version>
+        </dependency>
+
+        <!-- For SLF4J binding (optional for logging) -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
+            <version>2.0.12</version>
+        </dependency>
+
   </dependencies>
 
   <build>
