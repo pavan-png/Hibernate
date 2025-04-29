@@ -65,6 +65,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="in.orcas.HibernateBulkOperation"/>
 			<item value="in.orcas.HibernateBuiltInConnectionPool"/>
 			<item value="in.orcas.HibernateLobRetrival"/>
 			<item value="in.orcas.HibernateLobOperation"/>
@@ -73,6 +74,7 @@
 			<item value="in.orcas"/>
 		</list>
 		<list key="artifactId">
+			<item value="HibernateBulkOperation"/>
 			<item value="HibernateBuiltInConnectionPool"/>
 			<item value="HibernateLobRetrival"/>
 			<item value="HibernateLobOperation"/>
