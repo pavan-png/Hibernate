@@ -19,11 +19,12 @@ public class Employee implements Serializable {
 	@Column(name = "eno")
 	private Integer eNo;
 	
-	@Column(name = "ename")
-	private String eName;
-	
-	@Column(name = "eaddr")
+	@Column(name = "eaddr", length = 20)
 	private String eAddr;
+
+	@Column(name = "ename", length = 20)
+	private String eName;
+
 	
 	@Column(name = "esal")
 	private Integer eSalary;

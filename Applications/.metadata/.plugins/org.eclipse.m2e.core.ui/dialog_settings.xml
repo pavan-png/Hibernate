@@ -65,19 +65,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="in.orcas.HibernateBulkOperation"/>
-			<item value="in.orcas.HibernateBuiltInConnectionPool"/>
-			<item value="in.orcas.HibernateLobRetrival"/>
-			<item value="in.orcas.HibernateLobOperation"/>
 		</list>
 		<list key="groupId">
-			<item value="in.orcas"/>
 		</list>
 		<list key="artifactId">
-			<item value="HibernateBulkOperation"/>
-			<item value="HibernateBuiltInConnectionPool"/>
-			<item value="HibernateLobRetrival"/>
-			<item value="HibernateLobOperation"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -118,6 +109,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateBulkOperation"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateL2CacheVersion5"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateL2CacheVersion5"/>
@@ -132,7 +124,6 @@
 			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsCompositePrimarykey"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsIdentity"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\JpaGeneratorsCompositePrimarykey"/>
-			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsAuto"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
