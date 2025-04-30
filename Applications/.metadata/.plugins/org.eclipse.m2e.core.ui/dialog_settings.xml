@@ -109,6 +109,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationDelete"/>
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateBulkOperationDelete"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperation2WithAnnotation"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateBulkOperation"/>
@@ -122,8 +124,6 @@
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateVersioningLoad"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateDateTime"/>
-			<item value="C:\Users\mohan\Hibernate\Applications\JpaGeneratorsCompositePrimarykey"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
