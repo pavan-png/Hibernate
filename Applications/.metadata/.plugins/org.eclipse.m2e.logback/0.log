@@ -15860,3 +15860,178 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestApp references 
 2025-04-29 17:31:44,635 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\mohan\Hibernate\Applications\HibernateBulkOperation2WithXml\src\test\resources
 2025-04-29 17:38:36,280 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7666ac54{STOPPING}[12.0.12,sto=0]
 2025-04-29 17:38:36,283 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5f5485fd{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-29 19:11:50,881 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-29 22:39:13,947 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-29 22:39:39,038 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateBulkOperation:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperation2WithAnnotation\pom.xml.
+2025-04-29 22:39:39,887 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateBulkOperation2WithAnnotation/src/main/java
+2025-04-29 22:39:39,891 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateBulkOperation2WithAnnotation/src/main/resources
+2025-04-29 22:39:39,891 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateBulkOperation2WithAnnotation/src/test/java
+2025-04-29 22:39:39,892 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateBulkOperation2WithAnnotation/src/test/resources
+2025-04-29 22:39:40,065 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-04-29 22:39:41,908 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperation2WithAnnotation\src\main\resources
+2025-04-29 22:39:41,915 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperation2WithAnnotation\src\test\resources
+2025-04-29 22:51:14,135 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateBulkOperation:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\pom.xml.
+2025-04-29 22:51:14,778 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-29 22:51:14,786 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-29 22:51:16,129 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-29 22:51:16,134 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-29 22:52:36,739 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-29 22:52:36,815 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@2b3fdaa9{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@fd544ae{STARTED}}
+2025-04-29 22:52:36,816 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-29 22:52:36,858 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5599140b{HTTP/1.1, (http/1.1)}{127.0.0.1:52178}
+2025-04-29 22:52:36,891 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@7be3642{STARTING}[12.0.16,sto=0] @819160ms
+2025-04-29 23:15:35,492 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-29 23:15:35,499 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-29 23:15:37,955 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7be3642{STOPPING}[12.0.16,sto=0]
+2025-04-29 23:15:37,960 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5599140b{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-30 08:41:37,393 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-30 08:46:32,827 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-30 08:46:32,874 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@233f7db8{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@6b29d842{STARTED}}
+2025-04-30 08:46:32,875 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-30 08:46:32,897 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@23fa516{HTTP/1.1, (http/1.1)}{127.0.0.1:52785}
+2025-04-30 08:46:32,914 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@226c2edf{STARTING}[12.0.16,sto=0] @310120ms
+2025-04-30 08:46:32,914 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@226c2edf{STOPPING}[12.0.16,sto=0]
+2025-04-30 08:46:32,917 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@23fa516{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-30 08:46:32,923 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-30 08:46:32,927 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@15e18be0{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@5dcefee{STARTED}}
+2025-04-30 08:46:32,927 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-30 08:46:32,933 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2326040a{HTTP/1.1, (http/1.1)}{127.0.0.1:52786}
+2025-04-30 08:46:32,933 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@2e19a445{STARTING}[12.0.16,sto=0] @310139ms
+2025-04-30 09:09:51,039 [Worker-1: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-30 09:09:51,046 [Worker-1: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-30 09:11:19,157 [Worker-36: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-30 09:11:19,165 [Worker-36: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-30 09:13:50,231 [Worker-36: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-30 09:13:50,235 [Worker-36: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-30 09:14:18,088 [Worker-35: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-30 09:14:18,095 [Worker-35: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-30 09:15:51,557 [Worker-41: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-30 09:15:51,563 [Worker-41: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-30 09:16:25,975 [Worker-35: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-30 09:16:25,981 [Worker-35: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-30 09:16:40,958 [Worker-35: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-30 09:16:40,963 [Worker-35: Launching TestApp (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-30 09:32:47,697 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateBulkOperation:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns2\pom.xml.
+2025-04-30 09:32:48,181 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns2\src\main\resources
+2025-04-30 09:32:48,186 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns2\src\test\resources
+2025-04-30 09:32:49,350 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns2\src\main\resources
+2025-04-30 09:32:49,353 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns2\src\test\resources
+2025-04-30 09:38:05,889 [Worker-43: Launching TestApp (2)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns2\src\main\resources
+2025-04-30 09:38:05,894 [Worker-43: Launching TestApp (2)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns2\src\test\resources
+2025-04-30 09:48:40,526 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateBulkOperation:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSingleColumn\pom.xml.
+2025-04-30 09:48:41,012 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSingleColumn\src\main\resources
+2025-04-30 09:48:41,017 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSingleColumn\src\test\resources
+2025-04-30 09:48:41,306 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSingleColumn\src\main\resources
+2025-04-30 09:48:41,309 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSingleColumn\src\test\resources
+2025-04-30 09:48:41,778 [Worker-43: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestApp (2) references non-existing project HibernateBulkOperationSpecificColumns2.
+org.eclipse.core.runtime.CoreException: Launch configuration TestApp (2) references non-existing project HibernateBulkOperationSpecificColumns2.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-30 09:48:41,825 [Worker-43: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestApp (2) references non-existing project HibernateBulkOperationSpecificColumns2.
+org.eclipse.core.runtime.CoreException: Launch configuration TestApp (2) references non-existing project HibernateBulkOperationSpecificColumns2.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-30 09:48:41,831 [Worker-43: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestApp (2) references non-existing project HibernateBulkOperationSpecificColumns2.
+org.eclipse.core.runtime.CoreException: Launch configuration TestApp (2) references non-existing project HibernateBulkOperationSpecificColumns2.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-04-30 10:07:42,624 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\main\resources
+2025-04-30 10:07:42,630 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSpecificColumns\src\test\resources
+2025-04-30 10:09:29,520 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateBulkOperation:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationWithOptional\pom.xml.
+2025-04-30 10:09:30,067 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationWithOptional\src\main\resources
+2025-04-30 10:09:30,074 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationWithOptional\src\test\resources
+2025-04-30 10:09:31,276 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationWithOptional\src\main\resources
+2025-04-30 10:09:31,279 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationWithOptional\src\test\resources
+2025-04-30 10:09:36,948 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSingleColumn\src\main\resources
+2025-04-30 10:09:36,954 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSingleColumn\src\test\resources
+2025-04-30 10:11:09,381 [Worker-53: Launching TestApp (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSingleColumn\src\main\resources
+2025-04-30 10:11:09,386 [Worker-53: Launching TestApp (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationSingleColumn\src\test\resources
+2025-04-30 10:32:14,852 [Worker-58: Launching TestApp (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationWithOptional\src\main\resources
+2025-04-30 10:32:14,861 [Worker-58: Launching TestApp (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationWithOptional\src\test\resources
+2025-04-30 10:32:56,547 [Worker-65: Launching TestApp (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationWithOptional\src\main\resources
+2025-04-30 10:32:56,551 [Worker-65: Launching TestApp (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationWithOptional\src\test\resources
+2025-04-30 10:42:28,201 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@2e19a445{STOPPING}[12.0.16,sto=0]
+2025-04-30 10:42:28,232 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2326040a{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-30 13:19:55,916 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-30 13:20:31,981 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateBulkOperation:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\pom.xml.
+2025-04-30 13:20:32,620 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\main\resources
+2025-04-30 13:20:32,622 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\test\resources
+2025-04-30 13:20:32,873 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\main\resources
+2025-04-30 13:20:32,875 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\test\resources
+2025-04-30 13:20:58,142 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-30 13:20:58,188 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@46bf4137{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@1d16f15a{STARTED}}
+2025-04-30 13:20:58,188 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-30 13:20:58,209 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2bbedefd{HTTP/1.1, (http/1.1)}{127.0.0.1:64230}
+2025-04-30 13:20:58,225 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@5b5e3024{STARTING}[12.0.16,sto=0] @78289ms
+2025-04-30 13:48:40,306 [Worker-31: Launching TestApp (5)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\main\resources
+2025-04-30 13:48:40,312 [Worker-31: Launching TestApp (5)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\test\resources
+2025-04-30 13:49:47,159 [Worker-32: Launching TestApp (5)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\main\resources
+2025-04-30 13:49:47,165 [Worker-32: Launching TestApp (5)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\test\resources
+2025-04-30 13:50:11,462 [Worker-33: Launching TestApp (5)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\main\resources
+2025-04-30 13:50:11,506 [Worker-33: Launching TestApp (5)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\test\resources
+2025-04-30 13:54:18,786 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.orcas:HibernateBulkOperation:0.0.1-SNAPSHOT @ C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationDelete\pom.xml.
+2025-04-30 13:54:19,403 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationDelete\src\main\resources
+2025-04-30 13:54:19,412 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationDelete\src\test\resources
+2025-04-30 13:54:19,681 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationDelete\src\main\resources
+2025-04-30 13:54:19,685 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationDelete\src\test\resources
+2025-04-30 13:58:41,032 [Worker-37: Launching TestApp (5)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\main\resources
+2025-04-30 13:58:41,036 [Worker-37: Launching TestApp (5)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate\src\test\resources
+2025-04-30 14:00:59,007 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@5b5e3024{STOPPING}[12.0.16,sto=0]
+2025-04-30 14:00:59,011 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2bbedefd{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
