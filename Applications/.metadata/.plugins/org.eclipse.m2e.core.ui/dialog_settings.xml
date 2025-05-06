@@ -27,6 +27,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateNamedNativeSQLQuerySelect2"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateL2CacheVersion5\pom.xml"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp\pom.xml"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateCachingGet\src\main\java\in\orcas\main\TestApp.java"/>
@@ -41,7 +42,6 @@
 			<item value="C:\Users\Administrator\Hibernate\Applications\GetOperationMappingWithXml"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateSaveOperation\src\main\java\in\orcas\model\Employee.java"/>
 			<item value="C:\Users\vijay\Hibernate\Applications\SelectOperationUsingGetMethod"/>
-			<item value="C:\Users\vijay\Hibernate\Applications\HibernateSaveOperation\src\main\java\in\orcas\main\TestApp.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -65,10 +65,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="in.orcas.HibernateCriterianAPI"/>
 		</list>
 		<list key="groupId">
+			<item value="in.orcas"/>
 		</list>
 		<list key="artifactId">
+			<item value="HibernateCriterianAPI"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -109,6 +112,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateNamedNativeSQLQuerySelect2"/>
+			<item value="C:\Users\mohan\Hibernate\Applications\HibernateNamedNativeSQLQueryInsert"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationDelete"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperationUpdate"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateBulkOperationDelete"/>
@@ -122,8 +127,6 @@
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateCachingApp"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateL2Cache"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateTimeStampingLastUpdatedTime"/>
-			<item value="C:\Users\mohan\Hibernate\Applications\HibernateVersioningLoad"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
