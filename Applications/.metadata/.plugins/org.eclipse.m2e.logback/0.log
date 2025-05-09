@@ -16638,3 +16638,4 @@ Caused by: org.eclipse.core.runtime.CoreException: Cannot determine URI for '/Hi
 2025-05-08 14:05:32,898 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2025-05-08 14:42:26,882 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\JpaQueryByCriteria\src\main\resources
 2025-05-08 14:42:26,895 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Administrator\Hibernate\Applications\JpaQueryByCriteria\src\test\resources
+2025-05-08 20:54:54,082 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
