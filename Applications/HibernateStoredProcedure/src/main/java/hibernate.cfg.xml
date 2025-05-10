@@ -10,10 +10,10 @@
         <property name="hibernate.connection.username">practice</property>
         <property name="hibernate.connection.password">1234</property>
 
+      <property name="hibernate.dialect">org.hibernate.dialect.Oracle12cDialect</property>
       
 
-        <!-- SQL dialect for Oracle -->
-        <property name="hibernate.dialect">org.hibernate.dialect.OracleDialect</property>
+       
 
         <!-- Show SQL in console (set to false in production) -->
         <property name="hibernate.show_sql">true</property>
