@@ -13,4 +13,5 @@
     <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
     <fullyQualifiedTypeName name="org.hibernate.criterion.Order"/>
     <fullyQualifiedTypeName name="jakarta.persistence.ParameterMode"/>
+    <fullyQualifiedTypeName name="javax.persistence.ParameterMode"/>
 </qualifiedTypeNameHistroy>
