@@ -65,13 +65,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="in.orcas.HibernateCriterianAPI"/>
 		</list>
 		<list key="groupId">
-			<item value="in.orcas"/>
 		</list>
 		<list key="artifactId">
-			<item value="HibernateCriterianAPI"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -112,6 +109,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCriterianAPI"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateNamedNativeSQLQuerySelect2"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateNamedNativeSQLQueryInsert"/>
@@ -120,7 +118,6 @@
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateBulkOperationDelete"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateBulkOperation2WithAnnotation"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateBulkOperation"/>
-			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingApp"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateL2CacheVersion5"/>
 			<item value="C:\Users\mohan\Hibernate\Applications\HibernateL2CacheVersion5"/>
 			<item value="C:\Users\Administrator\Hibernate\Applications\HibernateCachingEvictClear"/>

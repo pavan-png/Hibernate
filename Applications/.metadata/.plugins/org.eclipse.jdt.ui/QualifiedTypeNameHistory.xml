@@ -12,4 +12,5 @@
     <fullyQualifiedTypeName name="org.hibernate.criterion.Projections"/>
     <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
     <fullyQualifiedTypeName name="org.hibernate.criterion.Order"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ParameterMode"/>
 </qualifiedTypeNameHistroy>
