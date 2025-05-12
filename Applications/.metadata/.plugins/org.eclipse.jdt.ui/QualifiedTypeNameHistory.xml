@@ -15,6 +15,6 @@
     <fullyQualifiedTypeName name="jakarta.persistence.ParameterMode"/>
     <fullyQualifiedTypeName name="javax.persistence.ParameterMode"/>
     <fullyQualifiedTypeName name="org.hibernate.LockMode"/>
-    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
     <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
 </qualifiedTypeNameHistroy>

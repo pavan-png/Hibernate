@@ -24,6 +24,9 @@ public class Employee {
 		this.eaddress = eaddress;
 	}
 
+	public Employee( ) {
+		System.out.println("internally used for object creation");
+	}
 	public Integer getEid() {
 		return eid;
 	}

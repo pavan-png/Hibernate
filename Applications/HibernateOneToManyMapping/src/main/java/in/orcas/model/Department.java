@@ -3,6 +3,7 @@ package in.orcas.model;
 import java.util.List;
 import java.util.Set;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
@@ -16,7 +17,7 @@ public class Department {
 	private int deptId;
 	private String deptName;
 	
-	@OneToMany
+	@OneToMany(cascade = CascadeType.ALL)
 	private Set<Employee> employee;
 	
 
@@ -27,6 +28,10 @@ public class Department {
 		this.deptId = deptId;
 		this.deptName = deptName;
 		this.employee = employee;
+	}
+	
+	public Department() {
+		System.out.println("internally used for object creation");
 	}
 
 	public int getDeptId() {
