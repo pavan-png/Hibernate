@@ -17596,3 +17596,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestApp references 
 2025-05-12 19:47:52,769 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\mohan\Hibernate\Applications\HibernateManyToManyMapping\src\test\resources
 2025-05-12 19:52:08,262 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@5f51360b{STOPPING}[12.0.12,sto=0]
 2025-05-12 19:52:08,264 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5dda5c65{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-05-13 07:56:38,757 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
